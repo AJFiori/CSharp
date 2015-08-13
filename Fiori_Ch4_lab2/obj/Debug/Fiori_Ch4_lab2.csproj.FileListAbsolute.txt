@@ -1,0 +1,18 @@
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\bin\Debug\Fiori_Ch4_lab2.exe.config
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\bin\Debug\Fiori_Ch4_lab2.exe
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\bin\Debug\Fiori_Ch4_lab2.pdb
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.csprojResolveAssemblyReference.cache
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.Properties.Resources.resources
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.csproj.GenerateResource.Cache
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.exe
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.pdb
+C:\Users\000915614\Desktop\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.AreaandPerimeter.resources
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\bin\Debug\Fiori_Ch4_lab2.exe.config
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.exe
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.pdb
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\bin\Debug\Fiori_Ch4_lab2.exe
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\bin\Debug\Fiori_Ch4_lab2.pdb
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.csprojResolveAssemblyReference.cache
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.AreaandPerimeter.resources
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.Properties.Resources.resources
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\C#\Fiori_HW2\Fiori_Ch4_lab2\Fiori_Ch4_lab2\obj\Debug\Fiori_Ch4_lab2.csproj.GenerateResource.Cache
