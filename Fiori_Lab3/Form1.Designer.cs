@@ -30,7 +30,6 @@
         {
             this.btnE = new System.Windows.Forms.Button();
             this.txtOutPut = new System.Windows.Forms.TextBox();
-            this.BtnC = new System.Windows.Forms.Button();
             this.btnGrade = new System.Windows.Forms.Button();
             this.LBLGR = new System.Windows.Forms.Label();
             this.LBLCL = new System.Windows.Forms.Label();
@@ -39,10 +38,12 @@
             this.txtGR = new System.Windows.Forms.TextBox();
             this.txtSN = new System.Windows.Forms.TextBox();
             this.lblER = new System.Windows.Forms.Label();
+            this.btnC = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnE
             // 
+            this.btnE.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnE.Location = new System.Drawing.Point(193, 158);
             this.btnE.Name = "btnE";
             this.btnE.Size = new System.Drawing.Size(75, 23);
@@ -57,16 +58,6 @@
             this.txtOutPut.Name = "txtOutPut";
             this.txtOutPut.Size = new System.Drawing.Size(283, 20);
             this.txtOutPut.TabIndex = 35;
-            // 
-            // BtnC
-            // 
-            this.BtnC.Location = new System.Drawing.Point(105, 158);
-            this.BtnC.Name = "BtnC";
-            this.BtnC.Size = new System.Drawing.Size(75, 23);
-            this.BtnC.TabIndex = 34;
-            this.BtnC.Text = "Clear";
-            this.BtnC.UseVisualStyleBackColor = true;
-            this.BtnC.Click += new System.EventHandler(this.BtnC_Click_1);
             // 
             // btnGrade
             // 
@@ -110,41 +101,53 @@
             this.txtCL.Location = new System.Drawing.Point(105, 80);
             this.txtCL.Name = "txtCL";
             this.txtCL.Size = new System.Drawing.Size(100, 20);
-            this.txtCL.TabIndex = 28;
+            this.txtCL.TabIndex = 1;
             // 
             // txtGR
             // 
             this.txtGR.Location = new System.Drawing.Point(105, 114);
             this.txtGR.Name = "txtGR";
             this.txtGR.Size = new System.Drawing.Size(100, 20);
-            this.txtGR.TabIndex = 29;
+            this.txtGR.TabIndex = 2;
             // 
             // txtSN
             // 
             this.txtSN.Location = new System.Drawing.Point(105, 42);
             this.txtSN.Name = "txtSN";
             this.txtSN.Size = new System.Drawing.Size(155, 20);
-            this.txtSN.TabIndex = 27;
+            this.txtSN.TabIndex = 0;
             // 
             // lblER
             // 
             this.lblER.AutoSize = true;
             this.lblER.ForeColor = System.Drawing.Color.Red;
-            this.lblER.Location = new System.Drawing.Point(70, 240);
+            this.lblER.Location = new System.Drawing.Point(27, 240);
             this.lblER.Name = "lblER";
             this.lblER.Size = new System.Drawing.Size(0, 13);
             this.lblER.TabIndex = 37;
             this.lblER.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
+            // btnC
+            // 
+            this.btnC.Location = new System.Drawing.Point(105, 158);
+            this.btnC.Name = "btnC";
+            this.btnC.Size = new System.Drawing.Size(75, 23);
+            this.btnC.TabIndex = 38;
+            this.btnC.Text = "Clear";
+            this.btnC.UseVisualStyleBackColor = true;
+            this.btnC.Click += new System.EventHandler(this.btnC_Click);
+            // 
             // Form1
             // 
+            this.AcceptButton = this.btnGrade;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnE;
             this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Controls.Add(this.btnC);
             this.Controls.Add(this.lblER);
             this.Controls.Add(this.btnE);
             this.Controls.Add(this.txtOutPut);
-            this.Controls.Add(this.BtnC);
             this.Controls.Add(this.btnGrade);
             this.Controls.Add(this.LBLGR);
             this.Controls.Add(this.LBLCL);
@@ -163,7 +166,6 @@
 
         private System.Windows.Forms.Button btnE;
         private System.Windows.Forms.TextBox txtOutPut;
-        private System.Windows.Forms.Button BtnC;
         private System.Windows.Forms.Button btnGrade;
         private System.Windows.Forms.Label LBLGR;
         private System.Windows.Forms.Label LBLCL;
@@ -172,6 +174,7 @@
         private System.Windows.Forms.TextBox txtGR;
         private System.Windows.Forms.TextBox txtSN;
         private System.Windows.Forms.Label lblER;
+        private System.Windows.Forms.Button btnC;
     }
 }
 

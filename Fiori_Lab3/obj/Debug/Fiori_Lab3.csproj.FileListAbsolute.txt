@@ -10,3 +10,12 @@ c:\users\anthony j. fiori\documents\visual studio 2013\Projects\Fiori_Lab3\Fiori
 C:\Users\Anthony J. Fiori\Desktop\Fiori_Lab3\Fiori_Lab3\bin\Debug\Fiori_Lab3.exe.config
 C:\Users\Anthony J. Fiori\Desktop\Fiori_Lab3\Fiori_Lab3\obj\Debug\Fiori_Lab3.exe
 C:\Users\Anthony J. Fiori\Desktop\Fiori_Lab3\Fiori_Lab3\obj\Debug\Fiori_Lab3.pdb
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\bin\Debug\Fiori_Lab3.exe.config
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\obj\Debug\Fiori_Lab3.exe
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\obj\Debug\Fiori_Lab3.pdb
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\bin\Debug\Fiori_Lab3.exe
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\bin\Debug\Fiori_Lab3.pdb
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\obj\Debug\Fiori_Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\obj\Debug\Fiori_Lab3.Form1.resources
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\obj\Debug\Fiori_Lab3.Properties.Resources.resources
+C:\Users\Anthony J. Fiori\Desktop\CSharp\Fiori_Lab3\obj\Debug\Fiori_Lab3.csproj.GenerateResource.Cache
