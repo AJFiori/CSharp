@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15404147-08D4-4C41-8C83-750F2F31127B}</ProjectGuid>
+    <ProjectGuid>{C83CA793-05D1-4864-8AB8-432439F64B9C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Fiori_Lab3</RootNamespace>
-    <AssemblyName>Fiori_Lab3</AssemblyName>
+    <RootNamespace>Fiori_lab3</RootNamespace>
+    <AssemblyName>Fiori_lab3</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

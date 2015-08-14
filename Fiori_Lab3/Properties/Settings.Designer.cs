@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Fiori_Lab3.Properties
+namespace Fiori_lab3.Properties
 {
 
 

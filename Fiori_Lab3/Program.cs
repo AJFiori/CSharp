@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Fiori_Lab3
+namespace Fiori_lab3
 {
     static class Program
     {

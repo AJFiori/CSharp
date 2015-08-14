@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Fiori_Lab3
+namespace Fiori_lab3
 {
     public partial class Form1 : Form
     {
@@ -19,17 +19,17 @@ namespace Fiori_Lab3
 
         //decliar varibles
         string StudentsName, Class;
-        decimal Grade; 
-
+        decimal Grade;
 
 
         //Provides grade
-        private void btnGrade_Click_1(object sender, EventArgs e)
+        private void btnGrade_Click(object sender, EventArgs e)
         {
+
             // If feilds are empty it will provide error
             if ((txtSN.Text == "") || (txtCL.Text == "") || (txtGR.Text == ""))
             {
-                lblER.Text = "**Please Enter information**";
+                lblER.Text = "    **Please Enter information**  ";
                 return;
             }
 
@@ -95,26 +95,27 @@ namespace Fiori_Lab3
                 LGrade = "F";
 
             }
-    
+
             // Clears information when grade button is clicked
             txtSN.Text = string.Empty;
             txtCL.Text = string.Empty;
             txtGR.Text = string.Empty;
             txtOutPut.Text = string.Empty;
-            
-            
+
+
             //Provides grade if entered properly
             switch (Class)
             {
-                
+
                 case "M":
                 case "m":
                     if (Grade > 100)
                     {
                         lblER.Text = "**Please enter a valid grade from 0 to 100**";
                     }
-                        else if (Grade <=100){
-                        txtOutPut.Text = StudentsName + " " + "Look at that, you got a " + LGrade + " in Math";
+                    else if (Grade <= 100)
+                    {
+                        txtOutPut.Text = StudentsName + " " + "how nice, you got a " + LGrade + " in Math....good for you";
                     }
                     break;
 
@@ -126,30 +127,30 @@ namespace Fiori_Lab3
                     }
                     else if (Grade <= 100)
                     {
-                        txtOutPut.Text = StudentsName + " " + "Look at that, you got a " + LGrade + " in Science";
+                        txtOutPut.Text = StudentsName + " " + "how nice, you got a  " + LGrade + " in Science....good for you";
                     }
                     break;
 
                 case "E":
                 case "e":
-                    if(Grade > 100)
+                    if (Grade > 100)
                     {
                         lblER.Text = "**Please enter a valid grade from 0 to 100**";
                     }
                     else if (Grade <= 100)
                     {
-                        txtOutPut.Text = StudentsName + " " + "Look at that, you got a " + LGrade + " in English";
+                        txtOutPut.Text = StudentsName + " " + "how nice, you got a  " + LGrade + " in English....good for you";
                     }
                     break;
-                   
-            //If entered incorrectly throughs out error
+
+                //If entered incorrectly throughs out error
                 default:
-                   txtOutPut.Text = "Invalid Class type! Enter M for Math, S for Science or E for English only";
+                    lblER.Text = "Invalid Class type! Enter M for Math, S for Science or E for English";
                     break;
-            
+
             }
             
-           
+
         }
 
         // Clears all fields including errors
@@ -161,15 +162,17 @@ namespace Fiori_Lab3
             txtGR.Text = "";
             txtOutPut.Text = "";
             lblER.Text = "";
+
         }
-        
+
         //Exit program
-        private void btnE_Click_1(object sender, EventArgs e)
+        private void btnE_Click(object sender, EventArgs e)
         {
             this.Close();
         }
-     
 
-       
+        
+ 
+
     }
 }
